@@ -32,5 +32,9 @@ body {
     
 }
 #the-likes {
-    
+    text-align: end;
 }
+#first-icon {
+    text-align: right;
+}
+    
